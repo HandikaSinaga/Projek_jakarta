@@ -1,1 +1,10 @@
 print ("Nama Kelompok Jakarta")
+
+print("Ari Purnomo Aji")
+print("Aisah")
+print("Jihan Hakima")
+print("Muhammad Farrel Daviaziz")
+print("Dhita Hartanti Octavia")
+print("Ahmad Raihan Asyam")
+print("Fernanda S")
+print("Sendi Alhazen Mulyono")
