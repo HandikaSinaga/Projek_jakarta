@@ -1,4 +1,5 @@
-print ("Nama Kelompok Jakarta")
+print("Untuk Tugas Version Control :")
+print("Nama Kelompok Jakarta")
 print("Handika Juan Putra Sinaga")
 print("Marjuenz Henry Suparto")
 print("Ariq Azmi Lubis")
