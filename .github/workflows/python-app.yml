@@ -33,4 +33,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: print nama
       run: python .github/workflows/print_nama.py
+    - name: github upload
 
