@@ -1,5 +1,4 @@
 print ("Nama Kelompok Jakarta")
-
 print("Ari Purnomo Aji")
 print("Aisah")
 print("Jihan Hakima")
@@ -8,3 +7,10 @@ print("Dhita Hartanti Octavia")
 print("Ahmad Raihan Asyam")
 print("Fernanda S")
 print("Sendi Alhazen Mulyono")
+print("Handika Juan Putra Sinaga")
+print("Marjuenz Henry Suparto")
+print("Ariq Azmi Lubis")
+print("Ahnaf Musyaffa Bisyri Hendro Subagio")
+print("Arif Fadillah")
+print("Mila Lestari")
+
