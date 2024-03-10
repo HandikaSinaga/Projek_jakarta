@@ -36,6 +36,6 @@ jobs:
     - name: github upload
       uses: actions/upload-artifact@v4
       with:
-        name: assets-for-download
+        name: assets-for-downloads
         path: download
 
